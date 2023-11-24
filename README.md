@@ -5,8 +5,8 @@ The AI Writer uses Azure OpenAI. You need to have a active API-Key and URL for A
 
 ## Installation
 
-1. Download the latest release of the AI Writer plugin from the [Releases](https://github.com/abasse/obsidian-aiwriter-plugin/releases) page.
-2. Open Obsidian and navigate to **Settings > Community plugins**.
+1. Download the latest release of the AI Writer plugin from the [Releases](https://github.com/abasse/obsidian-aiwriter-plugin/releases) page for manual installation.
+2. Open Obsidian and navigate to **Settings > Community plugins**. (Not yet released)
 3. Click the **Browse** button and select the downloaded AI Writer plugin.
 4. Enable the AI Writer plugin.
 
